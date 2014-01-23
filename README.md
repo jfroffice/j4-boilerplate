@@ -1,4 +1,9 @@
 j4-boilerplate
 ==============
 
-Minimal Cors web application example using Embedded Jetty, Jersey, Guice, and Jackson
+Minimal Cors Web Application using Embedded Jetty, Jersey, Guice, and Jackson
+
+```
+mvn package
+java -jar target/go.jar
+```
